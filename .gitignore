@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# PyCharm / editors
+.idea/
+.vscode/
+*.swp
+
+# PyInstaller output (keep a hand-written .spec if you add one)
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
